@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Safe Haven</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="forgot_password">Forgot password?</string>
+</resources>

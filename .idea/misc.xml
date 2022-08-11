@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_ground.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/background.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/button.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/button_pink.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/ic_add_alert_black_24dp.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/ic_delete_24.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/ic_edit_24.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/ic_email_24.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/ic_person_24.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/ic_phone_24.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/ic_stay_current_portrait_black_24dp.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/round_solid_shape.xml" value="0.1335" />
+        <entry key="app/src/main/res/layout/activity_addcontact.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_addrelative.xml" value="0.12291666666666666" />
+        <entry key="app/src/main/res/layout/activity_emergency.xml" value="0.22656616210937502" />
+        <entry key="app/src/main/res/layout/activity_helpline.xml" value="0.2174647013346354" />
+        <entry key="app/src/main/res/layout/activity_howtouse.xml" value="0.12291666666666666" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.15809733072916665" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.16469370524088542" />
+        <entry key="app/src/main/res/layout/activity_registration.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_siren.xml" value="0.2350550333658854" />
+        <entry key="app/src/main/res/layout/activity_splashh.xml" value="0.12291666666666666" />
+        <entry key="app/src/main/res/layout/activity_view_contacts.xml" value="0.2350550333658854" />
+        <entry key="app/src/main/res/layout/edit_contact.xml" value="0.24385019938151045" />
+        <entry key="app/src/main/res/layout/item_contact_list.xml" value="0.12291666666666666" />
+        <entry key="app/src/main/res/layout/slide_layout.xml" value="0.12291666666666666" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1335" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
